@@ -1,0 +1,31 @@
+{
+  "name": "redux-checklist",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.15.2",
+    "classnames": "^2.2.6",
+    "express": "^4.17.0",
+    "express-favicon": "^2.0.1",
+    "history": "^4.9.0",
+    "moment": "^2.24.0",
+    "path": "^0.12.7",
+    "prop-types": "^15.7.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-router-dom": "^5.0.0",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0",
+    "spectre.css": "^0.1.27"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

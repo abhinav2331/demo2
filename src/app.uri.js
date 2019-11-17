@@ -1,0 +1,1 @@
+export const AUTH_URI = 'https://conduit.productionready.io/api';
