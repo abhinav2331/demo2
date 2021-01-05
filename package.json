@@ -6,7 +6,7 @@
     "react-scripts": "0.7.0"
   },
   "dependencies": {
-    "axios": "^0.15.2",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "express": "^4.17.0",
     "express-favicon": "^2.0.1",
